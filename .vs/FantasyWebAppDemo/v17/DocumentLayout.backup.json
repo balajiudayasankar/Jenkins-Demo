@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "FantasyWebAppDemo\\Dockerfile",
               "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Dockerfile",
               "RelativeToolTip": "FantasyWebAppDemo\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-25T06:35:37.28Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "FantasyWebAppDemo\\Pages\\Error.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T06:19:16.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T06:19:16.719Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "FantasyWebAppDemo\\Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T06:19:11.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T06:19:11.846Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "FantasyWebAppDemo\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:32:32.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T05:32:32.893Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "TestProject1\\UnitTest1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T05:23:14.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T05:23:14.012Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "FantasyWebAppDemo\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T04:33:11.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T04:33:11.12Z"
             }
           ]
         }
