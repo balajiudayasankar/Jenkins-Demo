@@ -14,7 +14,7 @@ namespace FantasyWebAppDemo.Pages
 
         public void OnGet()
         {
-
+            ViewData["Title"] = "Home page";
         }
     }
 }

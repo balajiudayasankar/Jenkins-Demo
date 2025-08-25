@@ -26,7 +26,6 @@ D:\Training\L1\Devops\Jenkins\Web Project\FantasyWebAppDemo\FantasyWebAppDemo\ob
 D:\Training\L1\Devops\Jenkins\Web Project\FantasyWebAppDemo\FantasyWebAppDemo\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Training\L1\Devops\Jenkins\Web Project\FantasyWebAppDemo\FantasyWebAppDemo\obj\Debug\net8.0\staticwebassets.development.json
 D:\Training\L1\Devops\Jenkins\Web Project\FantasyWebAppDemo\FantasyWebAppDemo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Training\L1\Devops\Jenkins\Web Project\FantasyWebAppDemo\FantasyWebAppDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Training\L1\Devops\Jenkins\Web Project\FantasyWebAppDemo\FantasyWebAppDemo\obj\Debug\net8.0\FantasyWebAppDemo.dll
 D:\Training\L1\Devops\Jenkins\Web Project\FantasyWebAppDemo\FantasyWebAppDemo\obj\Debug\net8.0\refint\FantasyWebAppDemo.dll
 D:\Training\L1\Devops\Jenkins\Web Project\FantasyWebAppDemo\FantasyWebAppDemo\obj\Debug\net8.0\FantasyWebAppDemo.pdb

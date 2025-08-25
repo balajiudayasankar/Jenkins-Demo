@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|d:\\training\\l1\\devops\\jenkins\\web project\\fantasywebappdemo\\fantasywebappdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|solutionrelative:fantasywebappdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|d:\\training\\l1\\devops\\jenkins\\web project\\fantasywebappdemo\\fantasywebappdemo\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|solutionrelative:fantasywebappdemo\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|d:\\training\\l1\\devops\\jenkins\\web project\\fantasywebappdemo\\fantasywebappdemo\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|solutionrelative:fantasywebappdemo\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|d:\\training\\l1\\devops\\jenkins\\web project\\fantasywebappdemo\\fantasywebappdemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|solutionrelative:fantasywebappdemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|d:\\training\\l1\\devops\\jenkins\\web project\\fantasywebappdemo\\fantasywebappdemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|solutionrelative:fantasywebappdemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77708710-2AE5-4F11-95E8-206ED4293078}|TestProject1\\TestProject1.csproj|d:\\training\\l1\\devops\\jenkins\\web project\\fantasywebappdemo\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77708710-2AE5-4F11-95E8-206ED4293078}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,12 +63,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Dockerfile",
+              "RelativeDocumentMoniker": "FantasyWebAppDemo\\Dockerfile",
+              "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Dockerfile",
+              "RelativeToolTip": "FantasyWebAppDemo\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:35:37.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "FantasyWebAppDemo\\Pages\\Error.cshtml.cs",
+              "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "FantasyWebAppDemo\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:19:16.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "FantasyWebAppDemo\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Error.cshtml",
+              "RelativeToolTip": "FantasyWebAppDemo\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:19:11.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FantasyWebAppDemo\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "FantasyWebAppDemo\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:32:32.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:23:14.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "FantasyWebAppDemo\\Pages\\Index.cshtml",
               "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Index.cshtml",
               "RelativeToolTip": "FantasyWebAppDemo\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T04:33:11.12Z",
               "EditorCaption": ""
