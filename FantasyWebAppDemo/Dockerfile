@@ -1,29 +1,34 @@
-# Base image for runtime
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-WORKDIR /app
-EXPOSE 8082
-EXPOSE 8083
-
-# Build image
+# Stage 1: Build
+ 
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-
-# Copy and restore project
+# Copy the project file and restore dependencies
+ 
 COPY FantasyWebAppDemo.csproj ./
-RUN dotnet restore FantasyWebAppDemo.csproj
-
-# Copy everything else and build
-COPY . ./
-RUN dotnet build FantasyWebAppDemo.csproj -c $BUILD_CONFIGURATION -o /app/build
-
-# Publish the project
-FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish FantasyWebAppDemo.csproj -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
-
-# Final runtime image
-FROM base AS final
+ 
+RUN dotnet restore "FantasyWebAppDemo.csproj"
+# Copy the entire source code
+ 
+COPY . .
+# Publish the application
+ 
+RUN dotnet publish "FantasyWebAppDemo.csproj" -c Release -o /app/publish
+# Stage 2: Runtime
+ 
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
-COPY --from=publish /app/publish .
+# Copy published output from build stage
+ 
+COPY --from=build /app/publish .
+# Set environment variables
+ 
+ENV ASPNETCORE_ENVIRONMENT=Development
+ 
+ENV ASPNETCORE_URLS=http://+:88
+EXPOSE 88
+# Run the application
+ 
 ENTRYPOINT ["dotnet", "FantasyWebAppDemo.dll"]
+ 
+ 
+ 

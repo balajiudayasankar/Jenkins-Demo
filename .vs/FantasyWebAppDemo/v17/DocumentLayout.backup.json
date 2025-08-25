@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|d:\\training\\l1\\devops\\jenkins\\web project\\fantasywebappdemo\\fantasywebappdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|solutionrelative:fantasywebappdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|d:\\training\\l1\\devops\\jenkins\\web project\\fantasywebappdemo\\fantasywebappdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{776D40D1-512A-457E-B97F-6AD47BEFA128}|FantasyWebAppDemo\\FantasyWebAppDemo.csproj|solutionrelative:fantasywebappdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -63,19 +67,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Dockerfile",
-              "RelativeDocumentMoniker": "FantasyWebAppDemo\\Dockerfile",
-              "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Dockerfile",
-              "RelativeToolTip": "FantasyWebAppDemo\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-25T06:35:37.28Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Program.cs",
+              "RelativeDocumentMoniker": "FantasyWebAppDemo\\Program.cs",
+              "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Program.cs",
+              "RelativeToolTip": "FantasyWebAppDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:05:25.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Dockerfile",
+              "RelativeDocumentMoniker": "FantasyWebAppDemo\\Dockerfile",
+              "ToolTip": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Dockerfile",
+              "RelativeToolTip": "FantasyWebAppDemo\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T06:35:37.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Error.cshtml.cs",
               "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Error.cshtml.cs",
               "RelativeDocumentMoniker": "FantasyWebAppDemo\\Pages\\Error.cshtml.cs",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "FantasyWebAppDemo\\Pages\\Error.cshtml",
@@ -99,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "FantasyWebAppDemo\\Pages\\Index.cshtml.cs",
@@ -111,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
@@ -123,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Training\\L1\\Devops\\Jenkins\\Web Project\\FantasyWebAppDemo\\FantasyWebAppDemo\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "FantasyWebAppDemo\\Pages\\Index.cshtml",
